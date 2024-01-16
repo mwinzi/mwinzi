@@ -38,6 +38,8 @@ Well, just something up my sleeve.
 
 And something else,
 
+![snake gif](https://github.com/mwinzi/mwinzi/blob/output/github-contribution-grid-snake.svg)
+
 **Languages Used**
 
 <div align="center">  
