@@ -8,7 +8,7 @@
 
 **About Me**
 
-I am the embodiment of everything computer and software. I possess a raging passion for software development and hardware application. I have fun playing with DIY projects and turning ideas or concepts into their software equivalence. Obviously, I haven't done substantial work on all my computer-related passions owed to the usual suspects called reasons. Some of which, excuses. Every programmer has those, and don't let one tell you otherwise.
+I am everything computer and software. I possess a raging passion for software development and hardware application. I have fun playing with DIY projects and turning ideas or concepts into their software equivalence. Obviously, I haven't done substantial work on all my computer-related passions owed to the usual suspects called reasons. Some of which, excuses. Every programmer has those, and don't let one tell you otherwise.
 
 I have interests in the areas below:
   * Artificial Intelligence
