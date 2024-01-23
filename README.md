@@ -1,5 +1,3 @@
-<div style="background-color: #101414; color: #f5f5f5;">
-
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
 </p>
@@ -67,14 +65,16 @@ Here's what I'm listening to:
 </div>
 
 
-**Contact**
+**Links**
 
 [LinkedIn](https://ke.linkedin.com/in/joseph-mwinzi-760415232)
 
 [Blog](https://hashnode.com/@slimripah)
 
+[Hugging Face](https://huggingface.co/slimripah)
+
+**Contact**
+
 [Email](https://mailto:slimripah@gmail.com)
-
-
 
 </div>
