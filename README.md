@@ -4,7 +4,7 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Averia+Serif+Libre&color=f5f5f5&size=35&center=true&vCenter=true&width=1000&lines=Greetings;Name's+Mwinzi;Joseph+Mwinzi;But+my+friends+call+me+Joe;I+roll+out+the+welcome+mat;And+watch+your+wonder+wipe+its+feet;:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Averia+Serif+Libre&size=35&center=true&vCenter=true&width=1000&lines=Greetings;Name's+Mwinzi;Joseph+Mwinzi;But+my+friends+call+me+Joe;I+roll+out+the+welcome+mat;And+watch+your+wonder+wipe+its+feet;:%29)](https://git.io/typing-svg)
 
 **About Me**
 
