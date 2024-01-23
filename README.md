@@ -8,7 +8,7 @@
 
 <div align="justify">
 
-I am everything computer and software. I possess an ever-blazing passion for software development and hardware application and enjoy playing with DIY projects and turning ideas or concepts into their software equivalence. Obviously, I haven't done substantial work on all my computer-related passions owed to the usual suspects called reasons. Some of which, excuses. Every programmer has those, and don't let one tell you otherwise.
+I am everything computer and software. I possess an ever-blazing passion for software development, hardware application and enjoy playing with DIY projects. Generally, turning ideas and concepts into their coded and automated equivalence. Obviously, I haven't done substantial work on all my computer-related passions owed to the usual suspects called reasons. Some of which, excuses. Every programmer has those, and don't let one tell you otherwise.
 
 </div>
 
